@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/facebookpage/static/css/main.803e08c7.chunk.css",
+    "main.js": "/facebookpage/static/js/main.fc0c024d.chunk.js",
+    "main.js.map": "/facebookpage/static/js/main.fc0c024d.chunk.js.map",
+    "runtime~main.js": "/facebookpage/static/js/runtime~main.606241b1.js",
+    "runtime~main.js.map": "/facebookpage/static/js/runtime~main.606241b1.js.map",
+    "static/js/2.4246a5fe.chunk.js": "/facebookpage/static/js/2.4246a5fe.chunk.js",
+    "static/js/2.4246a5fe.chunk.js.map": "/facebookpage/static/js/2.4246a5fe.chunk.js.map",
+    "index.html": "/facebookpage/index.html",
+    "precache-manifest.a6347e98f9e8f338f612e472cc8b0bd9.js": "/facebookpage/precache-manifest.a6347e98f9e8f338f612e472cc8b0bd9.js",
+    "service-worker.js": "/facebookpage/service-worker.js",
+    "static/css/main.803e08c7.chunk.css.map": "/facebookpage/static/css/main.803e08c7.chunk.css.map"
+  }
+}
