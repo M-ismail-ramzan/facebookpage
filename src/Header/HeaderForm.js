@@ -57,7 +57,7 @@ class HeaderForm extends Component {
         const { data} = this.state;
         const{ error } =this.state;
         return (
-            <form onClick={this.handleSubmit}>
+            <form>
             <div className="display-input ml-5 mb-md-5">
             <label className="margin-email-header">Email</label>
             <input type="email" id="email" className="height-form-header" value={data.email} invalid={error.email ? true : false} name="email" onChange={this.handleChange} ></input>
@@ -69,7 +69,7 @@ class HeaderForm extends Component {
             <input type="password" id="password" className="height-form-header"value={data.password} type="password" name="password" invalid={error.password ? true : false} onChange={this.handleChange} ></input>
             <p className='text-danger size-span'>{error.password}</p>
             </div>
-            <input type="button" className="button-header" value="Log In"></input>
+            <input onClick={this.handleSubmit} type="button" className="button-header" value="Log In"></input>
             
     </form>    
     
