@@ -1,0 +1,64 @@
+.color-facebook-header{
+    background-color: #3b5998;
+    height: 12.5vh;
+}
+
+.display-input{
+    display: inline-block;
+    margin-left: 10%;
+    
+}
+.display-input2{
+    display: inline-block;
+    
+}
+
+.margin-email-header{
+    display: block;
+    margin-top: 5%;
+    font-weight: 100;
+    font-size: 13px;
+    color: white;
+    
+}
+.height-form-header{
+    height: 23px;
+    width: 90%;
+    font-size: 13px;
+    border:0.1px solid black;
+}
+
+.button-header{
+    height:23px;
+    font-size: 13px;
+    color: white;
+    background-color: #4d75ca;
+    border:0.1px solid #234eac;
+    font-weight: 500;
+    margin-left: 15px;
+    margin-bottom: 1000px;
+}
+
+
+.weight-fb{
+    font-weight: bolder;
+}
+
+.size-span{
+    font-size: 13px;
+}
+
+@media screen and (max-width: 576px) {
+     .margin-email-header{
+       color: #234eac;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .margin-email-header{
+      color: #234eac;
+   }
+   .height-form-header{
+       color: #234eac;
+   }
+ }

@@ -1,0 +1,73 @@
+.form-width{
+    width: 80%;
+}
+
+.width{
+    width: 205%;
+}
+
+.display{
+    margin-top: 200px;
+    margin-right: 200px;
+}
+
+.width-fix{
+    width: 78%;
+}
+.INLINE{
+    width: 130px;
+    display: inline-block;
+    margin: 0%;
+}
+
+.label-birthday{
+    display: block;
+    color: gray;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.checkfix{
+    display: inline-block;
+}
+.parafix{
+    color: gray;
+    font-size: 12px;
+}
+.signbutton{
+    color: white;
+    height: 40px;
+    width: 190px;
+    border: 1px solid green;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.13);
+    font-weight: bold;
+}
+
+.color-facebook{
+    color:#3b5998;
+}
+
+.image-edit{
+    cursor: pointer;
+    transition:zoom 2s ,color 5s;
+    background-color: gray;
+}
+
+.image-edit:hover{
+    zoom: 1.1;
+    color: black;
+}
+
+@media screen and (max-width: 576px) {
+        .fun{
+            margin-top: 100px;
+        }
+}
+
+@media screen and (max-width: 768px) {
+    .fun{
+        margin-top: 100px;
+        
+   }
+ }
